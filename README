@@ -1,0 +1,1 @@
+In this assignment, we had to create a card game program.  By starting with the card class, it includes instance variables previous and next that creates a chain of cards once they are created.  The pile class is a linked list that includes every card object created.  The pile class also shuffles the cards and sorts them once the game is over. 
